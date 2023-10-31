@@ -6,7 +6,7 @@
 
 ## Baixe o app
 
-- [download](release/app-release.apk)
+[download](release/app-release.apk)
 
 
 ## Capturas de Tela
