@@ -125,7 +125,7 @@ class _CreateTaskState extends State<CreateTask> {
                           controller.formGroup.control("dateRange").patchValue(selectedDateTime.toString());
                         },
                         decoration: const InputDecoration(
-                          labelText: 'dateRange',
+                          labelText: 'Date range',
                         ),
                       ),
                       Row(

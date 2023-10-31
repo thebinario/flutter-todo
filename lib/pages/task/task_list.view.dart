@@ -57,6 +57,7 @@ class _TaskListScreenState extends State<TaskListScreen> {
           ),
           floatingActionButton: FloatingActionButton(
             onPressed: () {
+              controller.formGroup.reset();
               context.go('/create-task');
             },
             child: const Icon(Icons.add),

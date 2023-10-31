@@ -90,7 +90,6 @@ class TaskListController extends ChangeNotifier {
     }).toList();
 
     sharedPreferencesProvider.set('tasks', tasksJsonList);
-    formGroup.reset();
   }
 
   initFormGroup() {
