@@ -6,8 +6,10 @@
 
 ## Capturas de Tela
 
-![Captura de Tela 1](link_para_a_primeira_imagem.png)
-![Captura de Tela 2](link_para_a_segunda_imagem.png)
+<img src="screenshots/screen1.jpg" width="200">
+<img src="screenshots/screen1.1.jpg" width="200">
+<img src="screenshots/screen2.jpg" width="200">
+<img src="screenshots/screen3.jpg" width="200">
 
 ## Funcionalidades
 
