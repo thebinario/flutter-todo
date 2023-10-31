@@ -4,6 +4,11 @@
 
 ### Este é um aplicativo simples de lista de tarefas desenvolvido em Flutter, uma estrutura de UI open-source do Google para criar aplicativos nativos para dispositivos móveis, web e desktop a partir de uma única base de código.
 
+## Baixe o app
+
+- [download](release/app-release.apk)
+
+
 ## Capturas de Tela
 
 <img src="screenshots/screen1.jpg" width="200">
