@@ -6,7 +6,7 @@
 
 ## Baixe o app
 
-[download](release/app-release.apk)
+[download](https://github.com/thebinario/flutter-todo/releases)
 
 
 ## Capturas de Tela
